@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ImpactAmount</fullName>
+    <inlineHelpText>O impacto sobre o saldo da nota de crédito e fatura. Solicitações do tipo não aplicado têm um impacto negativo, enquanto solicitações do tipo aplicado têm um impacto positivo.</inlineHelpText>
+</CustomField>
