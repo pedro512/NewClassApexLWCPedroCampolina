@@ -11,7 +11,7 @@ public with sharing class Carro {
             }
         }
 
-    }
+    }a
 public static Boolean ligarFarois(Boolean ligarFarois){
     Boolean igouFarois = ligouFarois ? true : false;
     
