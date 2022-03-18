@@ -13,7 +13,8 @@ public with sharing class Carro {
 
     }
 public static Boolean ligarFarois(Boolean ligarFarois){
-    Boolean ligouFarois = ligouFarois ? true : false;
+    Boolean igouFarois = ligouFarois ? true : false;
+    
 
 }
 
